@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+p {
+  display: inline-block;
+}
+button {
+  margin-left: 10px;
+}
+button + button {
+  margin-left: 5px;
+}
+.input-area {
+  background: #ebebeb;
+  width: 400px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.incomplete-area {
+  background: #ffe8bd;
+  width: 400px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.complete-area {
+  background: #bdcfff;
+  width: 400px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
