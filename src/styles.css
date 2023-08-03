@@ -10,12 +10,7 @@ button {
 button + button {
   margin-left: 5px;
 }
-.input-area {
-  background: #ebebeb;
-  width: 400px;
-  margin-bottom: 10px;
-  padding: 10px;
-}
+
 .incomplete-area {
   background: #ffe8bd;
   width: 400px;
